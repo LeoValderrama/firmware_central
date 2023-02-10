@@ -14,9 +14,9 @@ pin A0 --- análogo -- control de voltaje de batería
 */
 // ************************dht11 humedad - temperatura *******************
 
-#define dhtPin 0
+/*#define dhtPin 0
 #define dhtType DHT11
-DHT dht(dhtPin, dhtType);
+DHT dht(dhtPin, dhtType);*/
 
 // *********************** Barómetro ***************************************
 
